@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JonathanBrant&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBrant&hide=css,html&theme=tokyonight">
+</p>
+
 <!--
 **JonathanBrant/JonathanBrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
