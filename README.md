@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JonathanBrant&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBrant&hide=css,html&theme=tokyonight">
-</p>
+ <div>
+  <a href="https://github.com/JonathanBrant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanBrant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBrant&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **JonathanBrant/JonathanBrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
