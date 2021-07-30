@@ -1,5 +1,11 @@
 ### Olá, eu sou Jonathan! 👋
 
+#### Pós graduando em Engenharia de Software 💻 - PUCMinas
+#### Amante de tecnologia! 🤓
+
+#### 🔭 Atualmente atuando como front-end, utilizando React.
+#### 🌱 Estudando React Native e NodeJS.
+
  <div>
   <a href="https://github.com/JonathanBrant">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanBrant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,7 +24,20 @@
   <img align="center" alt="Jonathan-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Jonathan=Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
+ 
+ ##
 
+ <div> 
+ 
+  <a href="https://www.instagram.com/jbrant95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/jonathanbrant95" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jbrant1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonathan-brant-934420191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
 <!--
 **JonathanBrant/JonathanBrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
