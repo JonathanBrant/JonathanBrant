@@ -4,8 +4,8 @@
 #### Bolsista do programa Devs Academy, uma parceria da Digital House com a Deloitte
 #### Amante de tecnologia! 🤓
 
-#### 🔭 Atualmente atuando como front-end, utilizando React.
-#### 🌱 Estudando React Native e NodeJS.
+
+#### 🌱 Estudando Angular e Java!
 
  <div>
   <a href="https://github.com/JonathanBrant">
