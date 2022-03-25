@@ -1,7 +1,7 @@
 ### Olá, eu sou Jonathan! 👋
 
 #### Pós graduando em Engenharia de Software 💻 - PUCMinas
-#### Bolsista do programa Devs Academy, uma parceria da Digital House com a Deloitte
+#### Analista de Sistemas na Deloitte
 #### Amante de tecnologia! 🤓
 
 
