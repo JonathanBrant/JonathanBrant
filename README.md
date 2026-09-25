@@ -2,7 +2,6 @@
 
 #### Pós graduando em Engenharia de Software 💻 - PUCMinas
 #### Analista de Sistemas na Deloitte
-#### Amante de tecnologia! 🤓
 
 
 #### 🌱 Estudando Angular e Java!
